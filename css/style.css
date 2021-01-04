@@ -5,7 +5,13 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+#nav{
+font-size: 1.5em;
+
+}
+
 #home{
+
   background-image: url("/images/mountain1.jpg");
   color: #fff;
   background-size:cover;
@@ -91,7 +97,7 @@ header {
 }
 
 .nav-active {
-  color: #70aed2;
+  color: #FFF;
 }
 
 .line1, .line2, .line3 {
@@ -119,8 +125,8 @@ header {
 }
 
 #logoid {
-  width: 25px;
-  height: 35px;
+  width: 50px;
+  height: 70px;
 }
 /* end of navbar */
 
