@@ -334,7 +334,13 @@ header {
   }
 }
 /*  end of pricing */
+#wwdo {
+  font-size: 30px;
+}
 
+#wware {
+  font-size: 16px;
+}
 /* contact */
 .contact {
   background: linear-gradient(105deg,
