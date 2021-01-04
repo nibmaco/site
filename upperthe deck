@@ -46,80 +46,28 @@
      </section>
      <!-- end of banner -->
 
-    <!--who are we-->>
+     <!-- Who We Are?-->
      <section class="p-sm-5 p-2" id="whoweare">
         <div class="container-fluid"style="height: 100vh">
-            
-             <div class="row">
-                <div class="col text-center mb-3">
-                    <h1 class="text-white display-2">WHO WE ARE?</h1>
-                    <p class="lead text-light">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam, a. Omnis, numquam!</p>
+     <div class="row">
+            <div class="col-6">
+                <div class="leftside text-center mb-3">
+                <p class="lead text-light">Our development team is skilled at developing solutions using any modern programming language and we are passionate about staying ahead of the technology curve and utilizing the latest tools. We push the technology envelope every day.
+                        We are platform agnostic, meaning we work with virtually any technology stack, from Java to .NET and everything in between. No matter the platform or programming language, we can develop to your specific needs and we even have our own code library to speed things up. Our pre-built code library, detailed specs illustrated design method, and quick development process make it possible for us to build software solutions quickly. So no matter how far out your idea seems; be it a cloud infrastructure support, architecture or design, a quirky consumer application or complex business software, we provide the design,  development, technology, and methodology to bring it to life.
+                        We are able to scale your business software solutions as large or small as you require both horizontally and vertically.
+                        If there is something specific you are looking for but don’t see it listed, give us a call; we are confident we can build the software solution that’s right for you!
+                        Our development team is the best in the industry
+                    </p>
                 </div>
             </div>
-        
-            <div class="row">
-                <div class="col-lg-4 col-sm-10 mx-auto mb-4">
-                    <div class="card">
-                        <img src="images/kid1.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <div class="card-title">
-                                <h3 class="text-muted">Cullen Lurlay</h3>
-                            </div>
-                            <div class="card-subtitle">
-                                <p class="lead text-secondary">Co-Founder</p>
-                            </div>
-                            <div class="text-right">
-                                <a href="#"><i class="fab fa-facebook fa-2x mx-2 text-primary"></i></a>
-                                <a href="#"><i class="fab fa-twitter fa-2x mx-2 text-info"></i></a>
-                                <a href="https://www.linkedin.com/in/patrick-lurlay-10a20b12/"><i class="fab fa-linkedin fa-2x mx-2 text-danger"></i></a>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-10 mx-auto mb-4">
-                    <div class="card">
-                        <img src="images/kid2.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <div class="card-title">
-                                <h3 class="text-muted">Tadhg Lurlay</h3>
-                            </div>
-                            <div class="card-subtitle">
-                                <p class="lead text-secondary">Co-Founder</p>
-                            </div>
-                            <div class="text-right">
-                                <a href="#"><i class="fab fa-facebook fa-2x mx-2 text-primary"></i></a>
-                                <a href="#"><i class="fab fa-twitter fa-2x mx-2 text-info"></i></a>
-                                <a href="https://www.linkedin.com/in/cullen-lurlay-618b0117a"><i class="fab fa-linkedin fa-2x mx-2 text-danger"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-10 mx-auto mb-4">
-                    <div class="card">
-                        <img src="images/kid3.jpg" class="card-img-top">
-                        <div class="card-body">
-                            <div class="card-title">
-                                <h3 class="text-muted">Patrick Lurlay</h3>
-                            </div>
-                            <div class="card-subtitle">
-                                <p class="lead text-secondary">Co-Founder, CTO</p>
-                            </div>
-                            <div class="text-right">
-                                <a href="#"><i class="fab fa-facebook fa-2x mx-2 text-primary"></i></a>
-                                <a href="#"><i class="fab fa-twitter fa-2x mx-2 text-info"></i></a>
-                                <a href="https://www.linkedin.com/in/tadhg-lurlay-144726102/"><i class="fab fa-linkedin fa-2x mx-2 text-danger"></i></a>
-                            </div>
-                               
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-     </section>
-     <!-- end of who are we-->
 
+            <div class="col-6">
+                <div class="rightside">
+                 
+            </div>
+        </section>
+                
+  <!-- End Who We Are?-->
 
      <!-- What do we do section -->
      <section class="p-5" id="whatdowedo">
