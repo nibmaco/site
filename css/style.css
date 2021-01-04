@@ -17,16 +17,16 @@ body {
 }
 #whoweare {
   background-color: #aac4e3;
-  color: #aac4e3;
+  color: #fff;
   background-size:cover;
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-position: center
+  background-position: centercolor: #aac4e3;
 }
 #contactus{
-  background-color: #aac4e3;
-  color: #aac4e3;
+  background-image: url(../images/mountain3.jpg);
+  color: #fff;
   background-size:cover;
   background-position: center;
   background-attachment: fixed;
@@ -35,7 +35,7 @@ body {
 
 }
 #whatdowedo {
-  background-color: #6d92bd;
+  background-color: #809fc4;
   color: #fff;
   background-size:cover;
   background-position: center;
@@ -431,3 +431,21 @@ header {
   bottom: 50%;
 }
 /* end of footer */
+
+#head3 {
+  animation-name: anim3;
+  animation-duration: 2s;
+  animation-delay: .5s;
+  animation-fill-mode: backwards;
+}
+
+
+@keyframes anim3 {
+  0% {
+    transform: translateX(-100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
