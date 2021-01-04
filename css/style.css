@@ -12,7 +12,7 @@ font-size: 1.5em;
 
 #home{
 
-  background-image: url("/images/mountain1.jpg");
+  background-image: url(../images/mountain1.jpg);
   color: #fff;
   background-size:cover;
   background-position: center;
